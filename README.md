@@ -1,8 +1,10 @@
-# 6tisch-join-extended-beacon
-6tisch WG
+# draft-richardson-fud-constrained-update
 
-This is the repository for an www.ietf.org Internet Draft in the 6tisch WG
-http://datatracker.ietf.org/wg/6tisch for a document not yet adopted.
+This is the repository for an www.ietf.org Internet Draft which
+is for a BOF, which might be called "FUD"
+
+https://datatracker.ietf.org/doc/draft-richardson-fud-constrained-update/
+
 
 This repository needs the:
 * xml2rfc tool - https://xml2rfc.tools.ietf.org/
